@@ -1,12 +1,8 @@
 import React from 'react';
-import { createStore } from 'redux';
-import rootReducer from './reducers';
-
-const store = createStore(rootReducer)
-window.store = store
+import PlantsContainer from './app/plants/components/PlantsContainer';
 
 export const App = () => {
   return (
-    <h1>Hello!</h1>
+    <PlantsContainer />
   );
 }

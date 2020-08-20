@@ -1,4 +1,4 @@
-import types from './types';
+import types from './plants_types';
 
 const INITIAL_STATE = {
     listName: 'Plants',

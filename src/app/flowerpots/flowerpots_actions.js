@@ -1,4 +1,4 @@
-import types from './types';
+import types from './flowerpots_types';
 
 const add = item => ({
     type: types.ADD_FLOWERPOT, item
