@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(24, 37, 24);
+    font-size: 4rem;
+    font-weight: 100;
+}
+
+.btn {
+    width: 5rem;
+}
+
+.btn:first-child {
+    margin-right: 1rem;
+}

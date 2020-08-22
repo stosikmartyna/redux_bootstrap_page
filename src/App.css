@@ -1,0 +1,14 @@
+body {
+    background: rgb(204, 224, 187);
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    margin: 2rem auto;
+    padding: 1rem;
+}
